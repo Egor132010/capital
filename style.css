@@ -28,10 +28,28 @@ img{
     width: 500px;
 }
 .ddd{
-    max-width: 300px;
+    max-width: 230px;
 }
 body{
-    background: rgb(248, 216, 36);
+    background: rgb(139, 212, 2);
+}
+.rfl{
+    max-width: 400px;
+}
+.put{
+    max-width: 450px;
+}
+.kre{
+    max-width: 450px;
+}
+.pityl{
+    max-width: 450px;
+}
+.yl{
+    max-width: 450px;
+}
+.piter{
+    max-width: 450px;
 }
 .if{
     text-align: center;
